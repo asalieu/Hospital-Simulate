@@ -1,0 +1,21 @@
+D:\excercise\Hospital Simulate\Hospital Simulate\bin\Hospital Simulate.dll.config
+D:\excercise\Hospital Simulate\Hospital Simulate\bin\Hospital Simulate.dll
+D:\excercise\Hospital Simulate\Hospital Simulate\bin\Hospital Simulate.pdb
+D:\excercise\Hospital Simulate\Hospital Simulate\bin\Antlr3.Runtime.dll
+D:\excercise\Hospital Simulate\Hospital Simulate\bin\AspNet.ScriptManager.bootstrap.dll
+D:\excercise\Hospital Simulate\Hospital Simulate\bin\AspNet.ScriptManager.jQuery.dll
+D:\excercise\Hospital Simulate\Hospital Simulate\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\excercise\Hospital Simulate\Hospital Simulate\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\excercise\Hospital Simulate\Hospital Simulate\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\excercise\Hospital Simulate\Hospital Simulate\bin\Microsoft.ScriptManager.WebForms.dll
+D:\excercise\Hospital Simulate\Hospital Simulate\bin\Microsoft.Web.Infrastructure.dll
+D:\excercise\Hospital Simulate\Hospital Simulate\bin\Newtonsoft.Json.dll
+D:\excercise\Hospital Simulate\Hospital Simulate\bin\System.Web.Optimization.dll
+D:\excercise\Hospital Simulate\Hospital Simulate\bin\WebGrease.dll
+D:\excercise\Hospital Simulate\Hospital Simulate\bin\System.Web.Optimization.xml
+D:\excercise\Hospital Simulate\Hospital Simulate\bin\Antlr3.Runtime.pdb
+D:\excercise\Hospital Simulate\Hospital Simulate\bin\Newtonsoft.Json.xml
+D:\excercise\Hospital Simulate\Hospital Simulate\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\excercise\Hospital Simulate\Hospital Simulate\obj\Debug\Hospital Simulate.dll
+D:\excercise\Hospital Simulate\Hospital Simulate\obj\Debug\Hospital Simulate.pdb
+D:\excercise\Hospital Simulate\Hospital Simulate\obj\Debug\Hospital Simulate.csprojResolveAssemblyReference.cache
